@@ -62,7 +62,7 @@ Displays "Mode: Admin" on the LCD.
 Admin Mode Operations:
 
 * Key: Add a new user.
-# Key: Update medication stock.
+ Key: Update medication stock.
 D Key: Display current stock levels.
 Entering 456: Switches to User Mode.
 

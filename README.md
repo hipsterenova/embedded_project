@@ -1,6 +1,6 @@
 Project Description
 
-The Medication Management System is a microcontroller-based project designed to manage medication storage and dispensing for multiple users. It uses an LPC23xx microcontroller, a 4x4 keypad for input, and an LCD for displaying messages. The system allows an administrator to add users, update medication stock, and monitor inventory. Users can request their prescribed medications based on their ID and meal type.
+The Automatic Medicine Dispensor System is a microcontroller-based project designed to manage medication storage and dispensing for multiple users. It uses an LPC23xx microcontroller, a 4x4 keypad for input, and an LCD for displaying messages. The system allows an administrator to add users, update medication stock, and monitor inventory. Users can request their prescribed medications based on their ID and meal type.
 
 Features
 

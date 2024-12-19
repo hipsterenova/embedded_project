@@ -1,10 +1,10 @@
-Project Description
+# Project Description
 
 The Automatic Medicine Dispensor System is a microcontroller-based project designed to manage medication storage and dispensing for multiple users. It uses an LPC23xx microcontroller, a 4x4 keypad for input, and an LCD for displaying messages. The system allows an administrator to add users, update medication stock, and monitor inventory. Users can request their prescribed medications based on their ID and meal type.
 
 Features
 
-Admin Mode
+# Admin Mode
 
 Add User: The admin can add new users by providing their user ID, medication requirements for each compartment, and meal type.
 Update Medication Stock: Admins can replenish medication stock in specific compartments.
@@ -12,12 +12,12 @@ Display Medication Stock: View the current stock levels for all compartments.
 
 Switch Modes:Switch to User Mode by entering the admin password (456).
 
-User Mode
+# User Mode
 
 Request Medication: Users can enter their user ID and select a meal type to receive their prescribed medications.
 Switch Modes: Switch back to Admin Mode by entering the user password (123).
 
-Components
+# Components
 
 Microcontroller: LPC23xx
 Keypad: 4x4 matrix keypad
@@ -25,7 +25,7 @@ LCD Display: For displaying messages and prompts
 Medication Compartments: Simulated in the code using arrays
 Power Supply: Suitable power source for the microcontroller and peripherals
 
-Code Explanation
+# Code Explanation
 
 Initialization
 
@@ -53,7 +53,7 @@ Modes
 Admin Mode (mode = 'A'): Provides access to all administrative functionalities.
 User Mode (mode = 'U'): Allows users to request medications.
 
-How It Works
+# How It Works
 
 Startup:
 
